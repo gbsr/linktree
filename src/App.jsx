@@ -36,8 +36,8 @@ function App() {
 					development at NBI Handelsakademin in Gothenburg. I am just about to start the second year, and am now
 					searching for an internship during these two periods:
 					<div className="lia-period">
-						<div>yyyy-mm-dd to yyyy-mm-dd</div>
-						<div>yyyy-mm-dd to yyyy-mm-dd.</div>
+						<div>2024-11-11 to 2025-01-31</div>
+						<div>2025-03-17 to 2025-06-06.</div>
 					</div>
 					<section className="details">
 						<div className="skills">
