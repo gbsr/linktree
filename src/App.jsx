@@ -127,6 +127,10 @@ function App() {
 									</a>
 								</li>
 							</ul>
+							<br></br>
+							<p>Share this page:</p>
+							<br></br>
+							<img src="src/assets/linktree.png" style={{ borderRadius: "10px" }} />
 						</div>
 					</section>
 				</section>
